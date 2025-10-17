@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Byben",
+      "currently_maintained": true,
+      "oem": "Motorola",
+      "device": "Motorola G45",
+      "filename": "LumineDroid-bynx-20251022-OFFICIAL-fogos.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/fogos/bynx/LumineDroid-bynx-20251022-OFFICIAL-fogos.zip/download",
+      "timestamp": 1761104504,
+      "md5": "1909091da7fec03dd8d08eca1bacd174",
+      "sha256": "bc4f186ee65b5a8e8a79602a94f94d945d22c333a39fe5af0bdfcb0afcadd042",
+      "size": 2126703634,
+      "version": "bynx",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/rmdnsupport",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/heybyben",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
