@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Hans",
+      "currently_maintained": true,
+      "oem": "Redmi",
+      "device": "Redmi Note 14 4G",
+      "filename": "LumineDroid-bynx-20251027-OFFICIAL-tanzanite.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/tanzanite/bynx/LumineDroid-bynx-20251027-OFFICIAL-tanzanite.zip/download",
+      "timestamp": 179736284,
+      "md5": "38ee457dd61ddc909bf3b4ee0ce4a582",
+      "sha256": "fa431b80dafb57152461ade3d0f7fb3fda4bcc62f89d5be6d3709d0bee5d06e5",
+      "size": 2208473358,
+      "version": "bynx",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/noticesaa",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/itswill00",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
