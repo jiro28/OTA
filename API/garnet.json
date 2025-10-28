@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Soni-Hikari",
+      "currently_maintained": true,
+      "oem": "Redmi",
+      "device": "Redmi Note 13 Pro 5G / POCO X6 5G",
+      "filename": "LumineDroid-bynx-20251028-OFFICIAL-garnet.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/garnet/bynx/LumineDroid-bynx-20251028-OFFICIAL-garnet.zip/download",
+      "timestamp": 1761616692,
+      "md5": "0b8cc7245384a7861ae4291f438e5ab9",
+      "sha256": "6b8d3cac86c8820d7f1a9fa98b868cd4ed203d2e9b6887c94d2bccc8a7c7d768",
+      "size": 2775795392,
+      "version": "bynx",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/TimJR205",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/Hikari-Soni",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
