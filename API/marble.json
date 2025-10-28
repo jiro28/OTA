@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "Mauls",
+      "currently_maintained": false,
+      "oem": "POCO",
+      "device": "POCO F5",
+      "filename": "LumineDroid-bynx-20251027-OFFICIAL-marble.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/marble/bynx/LumineDroid-bynx-20251027-OFFICIAL-marble.zip/download",
+      "timestamp": 1761604950,
+      "md5": "058de3eff663253c5dfe43cd4b6fcda5",
+      "sha256": "a63f5a2a48d023583e3312d1fce5d954666002ec3633bde0231010ae2457a3f2",
+      "size": 2890870181,
+      "version": "bynx",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/mauls_build",
+      "firmware": "",
+      "paypal": "",
+      "github": "https://github.com/maulanariady",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
