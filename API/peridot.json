@@ -1,0 +1,24 @@
+{
+  "response": [
+    {
+      "maintainer": "ramshell688",
+      "currently_maintained": true,
+      "oem": "Xiaomi",
+      "device": "POCO F6/Redmi Turbo 3",
+      "filename": "LumineDroid-bynx-20251029-OFFICIAL-peridot.zip",
+      "download": "https://sourceforge.net/projects/luminedroid/files/peridot/bynx/LumineDroid-bynx-20251029-OFFICIAL-peridot.zip/download",
+      "timestamp": 1761758823,
+      "md5": "ca3d7922d697f83ea0e99ca42b5a3355",
+      "sha256": "77233f86fc2e993d16ddfd16ab5bb19078f65f18c9e2c370af4abf2c69271697",
+      "size": 3365389002,
+      "version": "bynx",
+      "buildtype": "userdebug",
+      "forum": "https://t.me/ramsprojects",
+      "firmware": "",
+      "paypal": "https://paypal.me/ramshell688",
+      "github": "https://t.me/ramshell688",
+      "initial_installation_images": [],
+      "extra_images": []
+    }
+  ]
+}
