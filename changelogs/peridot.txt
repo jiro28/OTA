@@ -1,3 +1,9 @@
+=== November 22, 2025 ===
+- Fixed Leica Watermark.
+- Added Thermal QS Tile.
+- Disable serial console.
+- Misc small latest changes.
+
 === October 29, 2025 ===
 - Initial release
 - Added Leica Camera.
